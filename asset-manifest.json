@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/NewDev-IGapp/static/css/main.510647d8.css",
-    "main.js": "/NewDev-IGapp/static/js/main.1cb6e3f8.js",
+    "main.css": "/NewDev-IGapp/static/css/main.7c06fb84.css",
+    "main.js": "/NewDev-IGapp/static/js/main.cb03beaa.js",
     "index.html": "/NewDev-IGapp/index.html",
-    "main.510647d8.css.map": "/NewDev-IGapp/static/css/main.510647d8.css.map",
-    "main.1cb6e3f8.js.map": "/NewDev-IGapp/static/js/main.1cb6e3f8.js.map"
+    "main.7c06fb84.css.map": "/NewDev-IGapp/static/css/main.7c06fb84.css.map",
+    "main.cb03beaa.js.map": "/NewDev-IGapp/static/js/main.cb03beaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.510647d8.css",
-    "static/js/main.1cb6e3f8.js"
+    "static/css/main.7c06fb84.css",
+    "static/js/main.cb03beaa.js"
   ]
 }
